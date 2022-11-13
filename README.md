@@ -31,13 +31,13 @@ Your users should be able to:
 
 ### Screenshot
 
-![](src/assets/desktop.png)
-![](src/assets/mobile.png)
+![](src/assets/todo-light.png)
+![](src/assets/todo-dark.png)
 
 ### Links
 
-- Solution URL: [URL](https://github.com/gio-oig/tip-calculator-app)
-- Live Site URL: [URL](https://gio-oig.github.io/tip-calculator-app)
+- Solution URL: [URL](https://github.com/gio-oig/todo-app)
+- Live Site URL: [URL](https://github.com/gio-oig/todo-app)
 
 ### Built with
 
