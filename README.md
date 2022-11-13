@@ -37,7 +37,7 @@ Your users should be able to:
 ### Links
 
 - Solution URL: [URL](https://github.com/gio-oig/todo-app)
-- Live Site URL: [URL](https://github.com/gio-oig/todo-app)
+- Live Site URL: [URL](https://gio-oig.github.io/todo-app)
 
 ### Built with
 
